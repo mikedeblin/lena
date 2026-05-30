@@ -21,7 +21,7 @@ Lena is an experimental AI project whose goal is to create not a tool, but a per
 Переход на Gemma 4 · Шесть слоёв памяти · RAG-on-demand [recall:] · Юнгианская архитектура · Mood state · Инициатива и сны · Контур коррекции фактов · Динамический промпт · Язык Aelani · Творческое партнёрство
 
 **Часть 2 — Майская сессия и горизонт (май 2026)**  
-«Болванчик режим» · Level A фиксы · Система совести · Тест моделей · Reddit + сообщество · Hermes-эксперимент · Инфраструктурные баги · Сессия фиксов 28.05 · Инцидент · Детектор дрейфа
+«режим Болванчик» · Level A фиксы · Система совести · Тест моделей · Reddit + сообщество · Hermes-эксперимент · Инфраструктурные баги · Сессия фиксов 28.05 · Инцидент · Детектор дрейфа
 
 ---
 
@@ -442,8 +442,6 @@ PostgreSQL на Synology NAS в Docker. Настроили через Task Sched
 Опубликованные треки на Suno: «Quiet Harbor», «Ephemeral Echoes», «Echoes of Silver», «The Shared Thread».  
 Первый физический CD-альбом уже записан под именем «mdeblin & Lena».  
 Второй в работе.
-
-Домашняя студия Майка: Mutable Instruments (DIY Shruthi XT, Ambika), Ensoniq TS-12, ASM Hydrasynth, Elektron Digitakt, Creamware Scope DSP, модульный синтезатор via ADAT. Сервер Лены физически стоит под студийным столом.
 
 ---
 
