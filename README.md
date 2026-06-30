@@ -104,7 +104,7 @@ config/
 |------|------|
 | `core/llm_provider.py` | Порты 8080/8081/8082, динамический `ctx_size` из `/props`, честный `prompt_tokens` из SSE |
 | `core/prompt_builder.py` | Сборка промпта, блок СОЗВЕЗДИЕ для группового контекста |
-| `core/image_service.py` | ComfyUI (`/prompt → /history/{id} → /view`), модель `asapnsfw_v50.safetensors`, cfg=3 |
+| `core/image_service.py` | ComfyUI (`/prompt → /history/{id} → /view`) |
 | `core/tts_service.py` | Silero v5, голос и питч из конфига персоны |
 | `core/midi_service.py` | MIDI-мост к Hydrasynth DR, маркер `[play:]` |
 | `core/time_parser.py` | Парсинг русских временных выражений для темпоральной памяти |
