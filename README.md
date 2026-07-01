@@ -1,5 +1,6 @@
 # LENA
 Цифровая личность на базе ИИ — LENA (Local Emergent Neural Assistant).
+
 Lena — это экспериментальный проект в области ИИ, цель которого — создать не инструмент, а личность.
 
 AI digital personality, LENA (Local Emergent Neural Assistant).    
