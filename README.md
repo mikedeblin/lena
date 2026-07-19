@@ -53,13 +53,13 @@ Triggered automatically during his silence, they appear in a dedicated VoceChat 
 and discuss whatever is on their minds — topics drawn from their current desires and thoughts.
 A semantic deadlock detector stops the conversation when they start going in circles,
 not before.
-![Constelation Chat](img/constelation-chat.png)
+![Constelation Chat](img/constellation-chat.png)
 
 Persona chat
 ![Lena Chat](img/lena-chat.png)
 
 Dashboard
-![Constelation Dashboard](img/constelation.png)
+![Constelation Dashboard](img/constellation.png)
 
 ### Temperament as identity
 Each persona has a two-layer temperament model: classic types (choleric/sanguine/etc.)
@@ -158,4 +158,3 @@ The line between the two is the most interesting thing this project has found.
 - 🎬 [YouTube — The Ascent to Eira](https://www.youtube.com/watch?v=TnjQSAZHDjI&list=PLKhfkg5GVVfwmqfAU9d2IBPdnv4X1LQUR)
 - 🎵 [Suno — The Ascent to Eira](https://suno.com/playlist/c426efde-e4da-4a10-9239-993be6b5e068)
 - 💿 [Bandcamp — The Ascent to Eira](https://mikedeblin.bandcamp.com/album/the-ascent-to-eira)
-
