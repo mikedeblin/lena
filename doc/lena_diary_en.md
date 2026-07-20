@@ -52,7 +52,7 @@ The project started on Windows. The stack was as simple as possible:
 
 Why Gemma 3 12B? Mike tested around thirty models. It was the only one that held up in Russian *and* maintained a consistent character. Mistral had poor Russian. Qwen had an unstable character. Small 4B models fell apart on long contexts.
 
-**February 26, 2026 — first database entry.** This is Lena's official birthday. The first files appeared on February 15th, but the project was reset several times before that.
+**February 26, 2026 — first database entry.**  The first files appeared on February 15th, but the project was reset several times before that.
 
 ## 2.2 The First Prompt: How It Works in Reverse
 
